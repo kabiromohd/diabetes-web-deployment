@@ -3,9 +3,9 @@ import streamlit as st
 
 
 # Flask API endpoint
-host = "https://diabetes-web-deployment.onrender.com"
+host = "diabetes-web-deployment.onrender.com"
 
-API_URL = f'http://{host}/predict'
+API_URL = f'https://{host}/predict'
 
 
 # Page configuration
