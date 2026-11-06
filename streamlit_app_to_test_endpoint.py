@@ -3,7 +3,7 @@ import streamlit as st
 
 
 # Flask API endpoint
-API_URL = "http://localhost:9690/predict"
+API_URL = "https://diabetes-web-deployment.onrender.com/predict"
 
 
 # Page configuration
